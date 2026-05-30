@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Mahmoud
 
-<!--
-**Mamdbakr/Mamdbakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | Flutter Developer | Python Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Building Flutter Applications
+- Interested in AI & Automation
+- Learning Software Engineering
+- Working on Apex AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Python
+- Git & GitHub
+- HTML
+- CSS
+- JavaScript
+
+## 📌 Featured Projects
+### Apex AI
+AI-powered project built with modern technologies.
+
+### Bus/Train Reservation System
+Software Engineering academic project.
+
+### Fire Fighting Robot
+Arduino-based robotics project.
+
+## 📫 Contact
+Email: mamdbakr9@gmail.com
