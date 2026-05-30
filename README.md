@@ -1,31 +1,45 @@
-# Hi 👋 I'm Mahmoud
+<h1 align="center">Mahmoud</h1>
 
-Frontend Developer | Flutter Developer | Python Developer
+<p align="center">
+Frontend Developer • Flutter Developer • AI Enthusiast
+</p>
 
-## 🚀 About Me
-- Building Flutter Applications
-- Interested in AI & Automation
-- Learning Software Engineering
-- Working on Apex AI
+<br>
 
-## 🛠 Tech Stack
-- Flutter
-- Dart
-- Python
-- Git & GitHub
-- HTML
-- CSS
-- JavaScript
+```python
+class Mamd:
 
-## 📌 Featured Projects
-### Apex AI
-AI-powered project built with modern technologies.
+    def __init__(self):
+        self.stack = [
+            "Flutter",
+            "Python",
+            "JavaScript"
+        ]
 
-### Bus/Train Reservation System
-Software Engineering academic project.
+    def interests(self):
+        return [
+            "AI",
+            "Automation",
+            "Software Engineering",
+            "Robotics"
+        ]
 
-### Fire Fighting Robot
-Arduino-based robotics project.
+    def current_focus(self):
+        return "Apex AI"
+```
 
-## 📫 Contact
-Email: mamdbakr9@gmail.com
+### About
+
+Building applications with Flutter and Python.
+
+Interested in AI systems, automation, and modern software architecture.
+
+### Projects
+
+- Apex AI
+- Fire Fighting Robot
+- Bus / Train Reservation System
+
+### Contact
+
+- mamdbakr9@gmail.com
